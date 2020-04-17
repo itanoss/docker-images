@@ -6,8 +6,7 @@ To isolate local environments in Jenkins, each slave has its own build environme
 
 * [Apache Flink](https://flink.apache.org) : [Dockerfile](flink/Dockerfile)
 * [SBT](https://scala-sbt.org) - Scala build tool : [Dockerfile](sbt/Dockerfile)
-* Ruby
-    * [Jekyll](https://jekyllrb.com) : [README](jekyll/README.md)
+* Ruby : [Dockerfile](ruby/Dockerfile)
 
 
 
